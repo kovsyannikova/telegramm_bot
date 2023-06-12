@@ -1,0 +1,8 @@
+telegram_token: "5823919998:AAGFhyPzXwJWOLnk1pNk-I2EbQQ_Byo3n9g"
+openai_api_key: "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"
+use_chatgpt_api: true
+allowed_telegram_usernames: []
+new_dialog_timeout: 600
+return_n_generated_images: 1
+n_chat_modes_per_page: 5
+enable_message_streaming: true
